@@ -11,8 +11,9 @@ h1 {
 }
 
 h2{
- font-size: 1.5rem; 
-  color: #845007
+ font-size: 2.7rem; 
+  font-weight: 600;
+  color: #3a4660;
     padding: 20px;
 }
 
@@ -24,6 +25,9 @@ h3 {
 
 nav {
   padding: 20px 0 30px 10px;
+  width: 55%;
+  margin: auto;
+  margin: 20px auto;
 }
 a {
   background-color: #3a4660;
@@ -31,8 +35,9 @@ a {
   text-decoration: none;
   padding: 20pxx;
   border: 5px outset #845007;
-  border-radius: 5px;
+  border-radius: 50%;
   transition-duration: .3s;
+  margin: 5px;
 }
 
 a: hover {
@@ -43,4 +48,20 @@ a: hover {
 ol,
 ul {
   padding left: 40 px;
+}
+
+.image-container {
+  margin:auto;
+  text-align: center;
+}
+
+.recipe {
+  border-bottom: 5px solid #845007
+    padding: 20px;
+  margin: 0 30 px 30px 30px;
+}
+
+ul {
+  padding-bottom: 10px;
+ border-bottom: 5px solid #3a4660;
 }
