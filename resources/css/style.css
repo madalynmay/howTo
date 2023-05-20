@@ -19,9 +19,12 @@ h3 {
   color:#845007
 }
 
+nav {
+  padding: 20px 0 30px 10px;
+}
 a {
   background-color: #3a4660;
     color:#c9af98;
   text-decoration: none;
-  padding: 20px;
+  padding: 20pxx;
 }
