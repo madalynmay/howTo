@@ -7,16 +7,19 @@ h1 {
   color: #3a4660;
   font-weight: 600;
   text-align: center;
+  padding: 20px;
 }
 
 h2{
  font-size: 1.5rem; 
   color: #845007
+    padding: 20px;
 }
 
 h3 {
   font-size: 1.3rem;
   color:#845007
+    padding: 20px;
 }
 
 nav {
@@ -27,4 +30,9 @@ a {
     color:#c9af98;
   text-decoration: none;
   padding: 20pxx;
+}
+
+ol,
+ul {
+  padding left: 40 px;
 }
