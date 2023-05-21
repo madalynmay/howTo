@@ -63,13 +63,17 @@ ul li {
     padding 5px;
   width: 50%
     font-size: 1.5rem;
-  
-}
+  }
 
 .image-container {
   margin:auto;
   text-align: center;
 }
+  
+  .image-container img {
+    width: 50%;
+      height:auto;
+  }
 
 .recipe {
   border-bottom: 5px solid #845007
