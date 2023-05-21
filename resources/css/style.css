@@ -87,6 +87,7 @@ ul {
 }
   
 .overlay {
+  z-index: 2
   text-align: center;
   width: 40%;;
   max-height: 100%;
