@@ -53,12 +53,12 @@ ul {
   padding left: 40 px;
 }
 
-ol li {
+ol, li {
   list-style-image: url("../images/favicon.ico");
   padding: 10 px;
 }
 
-ul li {
+ul, li {
   list-style-type: circle;
     padding 5px;
   width: 50%
