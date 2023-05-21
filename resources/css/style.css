@@ -3,7 +3,7 @@
 }
 
 h1 {
-  font-size:2rem;
+  font-size: 60px;
   color: #3a4660;
   font-weight: 600;
   text-align: center;
@@ -11,7 +11,7 @@ h1 {
 }
 
 h2{
- font-size: 2.7rem; 
+ font-size: 6vw; 
   font-weight: 600;
   color: #3a4660;
     padding: 20px;
@@ -45,6 +45,9 @@ a: hover {
     border: 5px outset #3a4660;
 }
 
+li {
+  font-size: 1.2rem;
+
 ol,
 ul {
   padding left: 40 px;
@@ -56,8 +59,11 @@ ol li {
 }
 
 ul li {
-  list-style-type: circle
+  list-style-type: circle;
     padding 5px;
+  width: 50%
+    font-size: 1.5rem;
+  
 }
 
 .image-container {
