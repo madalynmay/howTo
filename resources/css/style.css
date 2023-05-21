@@ -85,3 +85,11 @@ ul {
   padding-bottom: 10px;
  border-bottom: 5px solid #3a4660;
 }
+  
+.overlay {
+  text-align: center;
+  width: 40%;;
+  max-height: 100%;
+  background color: #000;
+opacity: .7;
+  }
